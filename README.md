@@ -55,3 +55,10 @@ The computer will randomly choose, and the result will be displayed.
 
 ---
 
+## Author
+
+Developed by Vishnu Prasad A, BE. ECE
+
+For learning, research, and assistive technology development.
+
+---
